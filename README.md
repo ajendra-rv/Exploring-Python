@@ -1,2 +1,4 @@
 # Exploring-Python
-My first repository
+My first repository....!
+
+I will be sharing my new findings soon....!
